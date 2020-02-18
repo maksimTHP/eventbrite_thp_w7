@@ -43,7 +43,7 @@ group :development, :test do
   gem "better_errors"
   gem "binding_of_caller"
   # other useful gems
-  # gem "letter_opener"
+  gem "letter_opener"
 
 
 end

@@ -54,7 +54,6 @@ Rails.application.configure do
 
 #Mailer true
 # config.action_mailer.delivery_method = :letter_opener
-  config.action_mailer.perform_deliveries = true
 
 
   # Raises error for missing translations
