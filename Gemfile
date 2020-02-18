@@ -43,11 +43,11 @@ group :development, :test do
   gem "better_errors"
   gem "binding_of_caller"
   # other useful gems
-  gem "letter_opener"
+  # gem "letter_opener"
 
 
 end
-
+gem 'dotenv-rails'
 group :development do
   # Access an interactive console on exception pages or by calling 'console' anywhere in the code.
   gem 'web-console', '>= 3.3.0'
