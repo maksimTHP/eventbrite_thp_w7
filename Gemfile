@@ -46,6 +46,7 @@ group :development, :test do
   gem "letter_opener"
 
 
+
 end
 gem 'dotenv-rails'
 group :development do
@@ -70,9 +71,9 @@ gem 'colorize'
 gem 'table_print'
 gem 'faker'
 gem 'shotgun'
-
+gem 'devise'
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # Simple Form aims to be as flexible as possible while helping you with powerful components to create your forms.
-gem 'simple_form'
+# gem 'simple_form'
 gem 'dotenv-rails'
